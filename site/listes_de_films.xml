@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<liste>
+ <film id = "1">
+  <image>images/avengersInfinityWar.jpeg</image>
+  <Nom>Avengers : Infinity War</Nom>
+  <Realisateur>Joe Russo, Anthony Russo</Realisateur>
+  <Date>2018</Date>
+  <Prix>14</Prix>
+  <Note>4.3/5</Note>
+ </film>
+ <film id = "2">
+  <image>images/avengersEndgameRedimensionne.jpeg</image>
+  <Nom>Avengers : Endgame</Nom>
+  <Realisateur>Joe Russo, Anthony Russo</Realisateur>
+  <Date>2019</Date>
+  <Prix>14</Prix>
+  <Note>4.2/5</Note>
+ </film>
+</liste>
